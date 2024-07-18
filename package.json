@@ -1,0 +1,20 @@
+{
+  "name": "f5-api",
+  "version": "1.0.1",
+  "description": "F5 API module",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P.White",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwhitef5/f5-api.git"
+  },
+  "dependencies": {
+    "async": "^3.2.4",
+    "fast-xml-parser": "^4.4.0"
+  }
+}
